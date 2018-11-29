@@ -11,7 +11,7 @@ Welcome to check the code if you are interested in.
 
 ### Highlight charts  
 
-![Image](https://github.com/collleenwang/R-Visualization/blob/master/Baisc-Try-data/Highlight.png)
+![Image](https://github.com/collleenwang/R-Visualization/blob/master/Baisc-Try-data/Highlight.png =250x250)
 
 ### Comparison charts
 
@@ -53,4 +53,4 @@ Welcome to check the code if you are interested in.
 
 ### Tree-map
 
-![Image](https://github.com/collleenwang/R-Visualization/blob/master/World-population-case/population_tree_map.ipynb)
+![Image](https://github.com/collleenwang/R-Visualization/blob/master/World-population-case/pop_tree_map.png)
