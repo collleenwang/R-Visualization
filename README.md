@@ -11,7 +11,7 @@ Welcome to check the code if you are interested in.
 
 ### Highlight charts  
 
-![Image](https://github.com/collleenwang/R-Visualization/blob/master/Baisc-Try-data/Highlight.png){:height="24px" width="48px"}
+![Image](https://github.com/collleenwang/R-Visualization/blob/master/Baisc-Try-data/Highlight.png)
 
 ### Comparison charts
 
